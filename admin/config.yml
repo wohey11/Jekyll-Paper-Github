@@ -2,7 +2,7 @@
 backend:
   name: git-gateway
   repo: wohey11/Jekyll-Paper-Github
-  branch: main
+  branch: master
   auth_type: pkce
   base_url: https://auth.decapbridge.com
   auth_endpoint: /sites/672f502e-9022-4c28-9445-c3d44a1ede6f/pkce
