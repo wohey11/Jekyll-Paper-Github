@@ -10,3 +10,8 @@
 
 - default: menu_about
   url: 'about'
+
+- title: 'Login'
+  absoluteUrl: true
+  url: 'https://wohey11.github.io/Jekyll-Paper-Github/admin/index.html'
+  
