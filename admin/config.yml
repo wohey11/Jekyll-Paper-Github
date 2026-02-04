@@ -29,7 +29,7 @@ auth:
 logo_url: https://decapbridge.com/decapcms-with-bridge.svg
 
 # Add site links in Decap CMS (optional)
-site_url: https://wohey11.github.io
+site_url: https://wohey11.github.io/Jekyll-Paper-Github
 
 # This line should *not* be indented
 media_folder: "images/uploads" # Media files will be stored in the repo under images/uploads
@@ -46,4 +46,4 @@ collections:
       - { label: "Publish Date", name: "date", widget: "datetime" }
 #      - { label: "Featured Image", name: "thumbnail", widget: "image" }
 #      - { label: "Rating (scale of 1-5)", name: "rating", widget: "number" }
-      - { label: "Body", name: "body", widget: "markdown" }
+l-Paper      - { label: "Body", name: "body", widget: "markdown" }
