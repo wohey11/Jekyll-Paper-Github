@@ -8,7 +8,7 @@ title: w.h. 3.0
 email: your-email@example.com
 name: Your name
 description: >- # this means to ignore newlines until "baseurl:"
-  Neues aus Consrade!
+  Neues aus Consrade! Mit Messwerten uptodate ;-)
 keywords: [Your keywords]
 baseurl: '/Jekyll-Paper-Github' # the subpath of your site, e.g. /`blog
 url: 'https://wohey11.github.io' # the base hostname & protocol for your site, e.g. http://example.com
